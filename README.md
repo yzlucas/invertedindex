@@ -1,2 +1,2 @@
 # invertedindex
-csc462 project phase 1
+phase 1
